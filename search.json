@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html#objectives",
-    "href": "index.html#objectives",
-    "title": "International Water Hyacinth Genomics Initiative",
-    "section": "Objectives",
-    "text": "Objectives\n\nGenerate a global genomic database of Pontederia crassipes (Water Hyacinth) using whole-genome sequencing and complementary genomic approaches.\nCharacterize genetic diversity and population structure of P. crassipes across the native and invaded ranges.\nReconstruct invasion routes and dispersal pathways of P. crassipes at regional and global scales.\nIdentify genomic regions associated with adaptation of P. crassipes, invasiveness, and environmental tolerance.\nPromote international collaboration and data sharing among P. crassipes researchers, institutions, and management agencies."
-  },
-  {
-    "objectID": "index.html#scope-of-the-initiative",
-    "href": "index.html#scope-of-the-initiative",
-    "title": "International Water Hyacinth Genomics Initiative",
-    "section": "Scope of the Initiative",
-    "text": "Scope of the Initiative\nThe initiative is an open and collaborative framework designed to welcome contributions from researchers worldwide. Participation may include:\n\nProviding plant tissue or DNA samples from well-documented populations.\nContributing raw whole-genome sequencing data or assembled genomes.\nSharing associated metadata, including geographic location, habitat type, sampling date, and ecological context.\nParticipating in joint analyses, publications, and related activities."
-  },
-  {
     "objectID": "participate.html",
     "href": "participate.html",
     "title": "Participation and Data Contribution",
@@ -70,6 +56,13 @@
     "text": "If you’d like to get in touch, feel free to reach us through any of the channels below.\n\n\n📧 Email contact\nwaterhyacinthgenomics@gmail.com"
   },
   {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Institutions",
+    "section": "",
+    "text": "Institutions\n\n  \n\n\n\nCoordinators\n\nDr. Alejandro Sosa - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.\nDr. Andrés F. Sánchez Restrepo - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA), Argentina.\nMegan Reid, PhD - University of Florida Fort Lauderdale Research and Education Center, USA.\nMelissa Smith, PhD - Invasive Plant Research Laboratory (USDA), USA.\nProf. Julie Coetzee - Deputy Director of the Centre for Biological Control at Rhodes University, South Africa.\nDr. Ana Faltlhauser - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.\nMSc. Miguel A. Caicedo-Baltodano - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Peru/Argentina.\n\n\n\nCollaborators\nOur work is empowered by an international network of researchers and institutional partners across the globe.\n\nGlobal Collaboration Network\n\n\n\n\n\n\n\nCollaborator List\n\nNicolás Alejandro Salinas - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.\nLynley Hayes - Landcare Research, New Zealand.\nBen Gooden - Kumaran Nagalingam - Alexander Schmidt-Lebuhn - CSIRO Health & Biosecurity, Australia.\nTahina Ernest Rajaonera - University of Antananarivo, Madagascar.\nHélia Marchante - Vitor Carvalho - CERNAS / ESAC, Polytechnic University of Coimbra, Portugal.\nNathan Harms - US Army Engineer Research and Development Center / USACE, USA.\nAngélica Alejandra Palma Araúz - Universidad Nacional de Colombia & Universidad de Panamá.\nDiana Carolina López Álvarez - National University of Colombia (UNAL), Colombia.\nHéctor Aponte - Valeria Iraola Linares - Universidad Científica del Sur, Peru.\nCarey Minteer - UF/IFAS, Indian River Research and Education Center, USA."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Methodological Framework",
@@ -105,13 +98,6 @@
     "text": "Data Management and Curation\nAll genomic data will be: - Stored in a centralized database with standardized formats.\n\nLinked to comprehensive metadata records.\nSubmitted, when possible, to public repositories (e.g., international nucleotide sequence databases), following FAIR data principles (Findable, Accessible, Interoperable, Reusable).\n\nQuality control pipelines and documentation will be developed to ensure the reliability and reproducibility of the data."
   },
   {
-    "objectID": "collaborators.html",
-    "href": "collaborators.html",
-    "title": "Institutions",
-    "section": "",
-    "text": "Institutions\n\n  \n\n\n\nCoordinators\n\nDr. Alejandro Sosa - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.\nDr. Andrés F. Sánchez Restrepo - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA), Argentina.\nMegan Reid, PhD - University of Florida Fort Lauderdale Research and Education Center, USA.\nMelissa Smith, PhD - Invasive Plant Research Laboratory (USDA), USA.\nProf. Julie Coetzee - Deputy Director of the Centre for Biological Control at Rhodes University, South Africa.\nDr. Ana Faltlhauser - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.\nMSc. Miguel A. Caicedo Baltodano - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Peru/Argentina.\n\n\n\nCollaborators\nOur work is empowered by an international network of researchers and institutional partners across the globe.\n\nGlobal Collaboration Network\n\n\n\n\n\n\n\nCollaborator List\n\nNicolás Alejandro Salinas - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.\nLynley Hayes - Landcare Research, New Zealand.\nBen Gooden - Kumaran Nagalingam - Alexander Schmidt-Lebuhn - CSIRO Health & Biosecurity, Australia.\nTahina Ernest Rajaonera - University of Antananarivo, Madagascar.\nHélia Marchante - Vitor Carvalho - CERNAS / ESAC, Polytechnic University of Coimbra, Portugal.\nNathan Harms - US Army Engineer Research and Development Center / USACE, USA.\nAngélica Alejandra Palma Araúz - Universidad Nacional de Colombia & Universidad de Panamá.\nDiana Carolina López Álvarez - National University of Colombia (UNAL), Colombia.\nHéctor Aponte - Universidad Científica del Sur, Peru.\nCarey Minteer - UF/IFAS, Indian River Research and Education Center, USA."
-  },
-  {
     "objectID": "guides.html",
     "href": "guides.html",
     "title": "Guides and Protocols",
@@ -145,5 +131,19 @@
     "title": "Guides and Protocols",
     "section": "",
     "text": "Collaborators are free to use any sequencing facility of their choice and should adhere strictly to the submission parameters established by their selected provider. We strongly recommend aiming for the highest sequencing depth possible, depending on the budget available to the collaborator or their host laboratory.\nIf your facility does not provide specific guidelines, please use the following baseline requirements as a standard reference for DNA sample submission:\n\nTotal Amount & Quality: At least 100 ng of high molecular weight (&gt;20 kb) genomic DNA, treated with RNase.\nTarget Concentration: Diluted to ~5.0–10.0 ng/µl. (Concentrations generally accepted range from a preferred minimum of 0.5 ng/µl to a maximum of 25 ng/µl).\nQuantification Method: Samples must be quantified using Qubit, PicoGreen, or another fluorometric assay to ensure accurate results."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "International Water Hyacinth Genomics Initiative",
+    "section": "Objectives",
+    "text": "Objectives\n\nGenerate a global genomic database of Pontederia crassipes (Water Hyacinth) using whole-genome sequencing and complementary genomic approaches.\nCharacterize genetic diversity and population structure of P. crassipes across the native and invaded ranges.\nReconstruct invasion routes and dispersal pathways of P. crassipes at regional and global scales.\nIdentify genomic regions associated with adaptation of P. crassipes, invasiveness, and environmental tolerance.\nPromote international collaboration and data sharing among P. crassipes researchers, institutions, and management agencies."
+  },
+  {
+    "objectID": "index.html#scope-of-the-initiative",
+    "href": "index.html#scope-of-the-initiative",
+    "title": "International Water Hyacinth Genomics Initiative",
+    "section": "Scope of the Initiative",
+    "text": "Scope of the Initiative\nThe initiative is an open and collaborative framework designed to welcome contributions from researchers worldwide. Participation may include:\n\nProviding plant tissue or DNA samples from well-documented populations.\nContributing raw whole-genome sequencing data or assembled genomes.\nSharing associated metadata, including geographic location, habitat type, sampling date, and ecological context.\nParticipating in joint analyses, publications, and related activities."
   }
 ]
