@@ -21,7 +21,7 @@
 Our work is empowered by an international network of researchers and institutional partners across the globe.
 
 ### Global Collaboration Network
-![](images/collaborators_map2.png){fig-align="center" width="100%"}
+![](images/collaborators_map3.png){fig-align="center" width="100%"}
 
 ### Collaborator List
 
