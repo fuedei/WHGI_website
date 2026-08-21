@@ -8,13 +8,13 @@
 
 # Coordinators
 
-- **Dr. Alejandro Sosa** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
-- **Dr. Andrés F. Sánchez Restrepo** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA), Argentina.
-- **Megan Reid, PhD** - University of Florida Fort Lauderdale Research and Education Center, USA.
-- **Melissa Smith, PhD** - Invasive Plant Research Laboratory (USDA), USA.
-- **Prof. Julie Coetzee** - Deputy Director of the Centre for Biological Control at Rhodes University, South Africa.
-- **Dr. Ana Faltlhauser** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
-- **MSc. Miguel A. Caicedo-Baltodano** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Peru/Argentina.
+- **Alejandro Sosa** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
+- **Andrés F. Sánchez Restrepo** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA), Argentina.
+- **Megan Reid** - University of Florida Fort Lauderdale Research and Education Center, USA.
+- **Melissa Smith** - Invasive Plant Research Laboratory (USDA), USA.
+- **Julie Coetzee** - Deputy Director of the Centre for Biological Control at Rhodes University, South Africa.
+- **Ana Faltlhauser** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina.
+- **Miguel A. Caicedo-Baltodano** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Peru/Argentina.
 
 # Collaborators
 
@@ -35,3 +35,4 @@ Our work is empowered by an international network of researchers and institution
 - **Diana Carolina López Álvarez** - National University of Colombia (UNAL), Colombia.
 - **Héctor Aponte - Valeria Iraola Linares** - Universidad Científica del Sur, Peru.
 - **Carey Minteer** - UF/IFAS, Indian River Research and Education Center, USA.
+- **Andrea Silva Báez - Natalia Reyes Escobar** - AUSTRAL-omics — Universidad Austral de Chile, Chile.
